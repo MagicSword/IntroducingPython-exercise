@@ -15,6 +15,13 @@ http://dlcenter.gotop.com.tw/SampleFiles/A443/%E5%8B%98%E8%AA%A4%E8%B3%87%E6%96%
 
 O'Reilly Media
 http://shop.oreilly.com/product/0636920028659.do
+http://shop.oreilly.com/product/0636920028659.do
+
+Errara
+http://www.oreilly.com/catalog/errata.csp?isbn=0636920028659
+
+Amazon
+https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1449359361
 
 
 
@@ -39,6 +46,18 @@ TOC
 附錄E 問題解答 
 附錄F 備忘錄
 
+Chapter 1, A Taste of Py
+Chapter 2, Py Ingredients: Numbers, Strings, and Variables
+Chapter 3, Py Filling: Lists, Tuples, Dictionaries, and Sets
+Chapter 4, Py Crust: Code Structures
+Chapter 5, Py Boxes: Modules, Packages, and Programs
+Chapter 6, Oh Oh: Objects and Classes
+Chapter 7, Mangle Data Like a Pro
+Chapter 8, Data Has to Go Somewhere
+Chapter 9, The Web, Untangled
+Chapter 10, Systems
+Chapter 11, Concurrency and Networks
+Chapter 12 Be a Pythonista
 
 
 
@@ -49,3 +68,4 @@ Ref:
   * https://github.com/Fruitson82/Introducing_Python
   * https://github.com/HuskyHsu/Introducing-Python
   * jupyter工具 http://nbviewer.jupyter.org/
+  * iampennywu at gitbook  https://iampennywu.gitbooks.io/introducing-python/content/
