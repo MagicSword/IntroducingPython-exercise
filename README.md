@@ -13,12 +13,12 @@ TOC:
 10. Systems
 11. Concurrency and networks
 12. Be a pythonista
-A. Py art
-B. Py at work
-C. Py sci
-D. Install Python 3
-E. Answers to exercises
-F. Cheatsheets
+13. A. Py art
+14. B. Py at work
+15. C. Py sci
+16. D. Install Python 3
+17. E. Answers to exercises
+18. F. Cheatsheets
 
 TOC:
 1. 第一章 初嘗 Py
@@ -33,12 +33,12 @@ TOC:
 10. 第十章 系統
 11. 第十一章 並行處理與網路
 12. 第十二章 當一位 Python 忠貞黨員
-A. 附錄A Py 藝術 
-B. 附錄B Py 上工 
-C. 附錄C Py 科學 
-D. 附錄D 安裝 Python 3 
-E. 附錄E 問題解答 
-F. 附錄F 備忘錄
+13. 附錄A Py 藝術 
+14. 附錄B Py 上工 
+15. 附錄C Py 科學 
+16. 附錄D 安裝 Python 3 
+17. 附錄E 問題解答 
+18. 附錄F 備忘錄
 
 **Book**:
   * 博客來 http://www.books.com.tw/products/0010690075
