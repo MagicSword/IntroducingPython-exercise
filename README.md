@@ -1,7 +1,6 @@
 # IntroducingPython-exercise
 
-TOC
-
+TOC:
 1. A taste of Py
 2. Py ingredients: numbers, strings, and variables
 3. Py filling: lists, tuples, dictionaries, and sets
@@ -21,6 +20,7 @@ D. Install Python 3
 E. Answers to exercises
 F. Cheatsheets
 
+TOC:
 1. 第一章 初嘗 Py
 2. 第二章 Py 食材：數字、字串與變數
 3. 第三章 Py 填充：串列、Tuple、字典，與集合
