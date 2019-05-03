@@ -1,23 +1,5 @@
 # IntroducingPython-exercise
 
-
-
-博客來
-http://www.books.com.tw/products/0010690075
-
-
-碁峰
-http://books.gotop.com.tw/v_A443
-
-勘誤資料 errata0901
-http://dlcenter.gotop.com.tw/SampleFiles/A443/%E5%8B%98%E8%AA%A4%E8%B3%87%E6%96%99/errata0901.doc
-
-
-O'Reilly Media
-http://shop.oreilly.com/product/0636920028659.do
-
-
-
 TOC
 
 第一章 初嘗 Py
@@ -39,9 +21,30 @@ TOC
 附錄E 問題解答 
 附錄F 備忘錄
 
+1. A taste of Py
+2. Py ingredients: numbers, strings, and variables
+3. Py filling: lists, tuples, dictionaries, and sets
+4. Py crust: code structures
+5. Py boxes: modules, packages, and programs
+6. Oh oh: objects and classes
+7. Mangle data like a pro
+8. Data has to go somewhere
+9. The web, untangled
+10. Systems
+11. Concurrency and networks
+12. Be a pythonista
+A. Py art
+B. Py at work
+C. Py sci
+D. Install Python 3
+E. Answers to exercises
+F. Cheatsheets
 
-
-
+Book:
+  * 博客來 http://www.books.com.tw/products/0010690075
+  * 碁峰 http://books.gotop.com.tw/v_A443
+  * O'Reilly Media http://shop.oreilly.com/product/0636920028659.do
+  * 勘誤資料 errata0901 http://dlcenter.gotop.com.tw/SampleFiles/A443/%E5%8B%98%E8%AA%A4%E8%B3%87%E6%96%99/errata0901.doc
 
 
 Ref:
