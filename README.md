@@ -40,6 +40,20 @@ TOC:
 17. 附錄E 問題解答 
 18. 附錄F 備忘錄
 
+Errata0901:
+  <p.94> 第一段程式碼:
+  原為：
+  >>> def echo(anything):
+  ... return anything ' ' anything
+  ...
+  >>>
+  改為：
+  >>> def echo(anything):
+  ... return anything +' '+ anything
+  ...
+  >>>
+
+
 **Book**:
   * 博客來 http://www.books.com.tw/products/0010690075
   * 碁峰 http://books.gotop.com.tw/v_A443
@@ -52,4 +66,3 @@ TOC:
   * https://github.com/Fruitson82/Introducing_Python
   * https://github.com/HuskyHsu/Introducing-Python
   * jupyter工具 http://nbviewer.jupyter.org/
->>>>>>> 2ba492bd5ed08826bb0cb6f638b0919be8ee77dd
